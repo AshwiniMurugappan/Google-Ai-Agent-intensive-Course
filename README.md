@@ -1,4 +1,4 @@
-# Google-Ai-Agent-intensive-Course
+# Concurrent Financial Insight Engine
 Your Destination to get Real-Time, Parallel Stock Analysis using the Gemini Agent Development Kit
 
 **Project Description**
